@@ -9,4 +9,4 @@ This repository includes all files relating to the UWA Full Stack Web Developmen
 [image2](Homework-01/image2.png)
 
 
-URL: https://jacobxthomas.github.io/Homework-01/.
+URL: https://jacobxthomas.github.io/Jacob-Thomas-Homework-01/.
