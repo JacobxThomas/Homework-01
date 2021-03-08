@@ -4,9 +4,9 @@ UWA Coding Bootcamp Homework Week 1
 
 This repository includes all files relating to the UWA Full Stack Web Development Coding Bootcamp Homework Assignment 1.
 
-[textshowntouser](homework-01/Deployed_site_screenshot1.png)
+[textshowntouser](Homework-01/screenshot1.png)
 
-[textshowntouser](homework-01/Deployed_site_screenshot2.png)
+[textshowntouser](Homework-01/screenshot2.png)
 
 
 URL: 
